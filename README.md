@@ -4,8 +4,8 @@ The main goal is to inform about future conferences and also give some feedback 
 
 Open task
 - [x] contribution guidelines 
-- [ ] define types
-- [ ] display conferences
+- [x] define types
+- [x] display conferences
 - [ ] add login for interaction
 - [ ] preferences for getting suggestions
 - [ ] add notifications
